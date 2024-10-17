@@ -2,12 +2,12 @@ title: Kaicheng Sheng
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://https://cascadingdown.github.io
+url: https://cascadingdown.github.io
 
 # Owner/author information
 owner:
   name: Kaicheng Sheng
-  avatar: https://cascadingdown.github.io//images//kaicheng2.jpg
+  avatar: kaicheng2.jpg
   birthday: 08/25 2000
   hometown: Hangzhou, China
   # bio: Two roads diverged in woods, I took the one less traveled by.
