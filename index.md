@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://cascadingdown.github.io//kaicheng.jpg" class="floatpic" width="360" height="540">
+<img src="https://cascadingdown.github.io//image//kaicheng.jpg" class="floatpic" width="360" height="540">
 
 Here is **Kaicheng Sheng (盛开诚)**.<br>
 
