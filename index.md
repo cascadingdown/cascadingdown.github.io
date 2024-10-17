@@ -4,11 +4,12 @@ layout: page
 
 # About Me
 
-<img src="https://cascadingdown.github.io//kaicheng.jpg" class="floatpic" width="360" height="480">
+<img src="https://cascadingdown.github.io//kaicheng.jpg" class="floatpic" width="360" height="240">
 
 Here is **Kaicheng Sheng (盛开诚)**.<br>
 
-I am a graduate student in the Department of Engineering at the Carnegie Mellon University, will be graduating Dec 2024. My major is Artificial Intelligence Engineering-Civil and Environmental Engineering.
+I am a graduate student in the Department of Engineering at Carnegie Mellon University, will be graduating Dec 2024. My major is Artificial Intelligence Engineering-Civil and Environmental Engineering.
+
 ---
 
 ## Interests
